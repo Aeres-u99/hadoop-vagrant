@@ -26,3 +26,4 @@ The system uses about 1gb ram and requires storage upto 10Gb.
 * [ ] Write FAQ.
 * [ ] Documentations for possible errors and their fixes.
 ## FAQ
+* pending
